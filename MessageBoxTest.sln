@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxTest", "MessageBoxTest.csproj", "{2D0ED37A-6264-4506-B6E8-9A06851642FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{C2C81198-820D-4EE6-A98C-ACF49D361FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0ED37A-6264-4506-B6E8-9A06851642FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0ED37A-6264-4506-B6E8-9A06851642FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0ED37A-6264-4506-B6E8-9A06851642FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0ED37A-6264-4506-B6E8-9A06851642FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C81198-820D-4EE6-A98C-ACF49D361FC2}.Debug|Any CPU.ActiveCfg = Debug
+		{C2C81198-820D-4EE6-A98C-ACF49D361FC2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6B0A4A-BEEE-4439-8EC8-F3574E35F187}
+	EndGlobalSection
+EndGlobal
